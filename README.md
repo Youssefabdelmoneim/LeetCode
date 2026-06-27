@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0217-contains-duplicate) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0355-design-twitter) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
