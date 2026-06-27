@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0217-contains-duplicate) |
+| [0355-design-twitter](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
 ## Sorting
@@ -38,9 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
