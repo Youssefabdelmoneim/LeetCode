@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Counting
 |  |
 | ------- |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0133-clone-graph) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
