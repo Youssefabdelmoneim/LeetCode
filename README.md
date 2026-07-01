@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0355-design-twitter) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0043-multiply-strings) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Data Stream
 |  |
 | ------- |
