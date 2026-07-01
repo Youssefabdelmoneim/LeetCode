@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0221-maximal-square) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0217-contains-duplicate) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph Theory
