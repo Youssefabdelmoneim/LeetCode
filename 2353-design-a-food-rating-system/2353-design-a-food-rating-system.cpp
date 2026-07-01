@@ -30,7 +30,7 @@ public:
 
   string highestRated(string cuisine)
   {
-    return cuisineToFood[cuisine].begin()->second;
+    return cuisineToFood[cuisine].begin()->second;  // o ( 1 )
   }
 };
 /**
