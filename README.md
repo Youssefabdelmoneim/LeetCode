@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0567-permutation-in-string) |
 | [2353-design-a-food-rating-system](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2353-design-a-food-rating-system) |
