@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
+| [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2013-detect-squares](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2013-detect-squares) |
 | [2353-design-a-food-rating-system](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2353-design-a-food-rating-system) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
+| [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
