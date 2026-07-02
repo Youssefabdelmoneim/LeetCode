@@ -4,27 +4,22 @@ public:
   int longestOnes(vector<int> &nums, int k)
   {
     int n = nums.size();
-    int curr = 0;
     int res = 0;
-    queue<int> q; // number of 1's between zeros
-    int numberOfOnesBetweenZeros = 0;
-    for (int i = 0; i < n; i++)
+    int l = 0;
+    for (int r = 0; r < n; r++)
     {
-      if (nums[i] == 0)
+      if (nums[r] == 0)
       {
-        q.push(numberOfOnesBetweenZeros);
-        numberOfOnesBetweenZeros = 0;
         k--;
         if (k < 0)
         {
-          curr -= q.front() + 1;
-          q.pop();
-          k++;
+          while (nums[l] != 0) // start after first zero
+            l++;
+          l++;
+          k = 0;
         }
       }
-      curr++;
-      res = max(curr, res);
-      if ( nums[i] == 1)numberOfOnesBetweenZeros++;
+      res = max(r - l + 1, res);
     }
     return res;
   }
