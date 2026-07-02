@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
 | [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2013-detect-squares](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2013-detect-squares) |
 | [2353-design-a-food-rating-system](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2353-design-a-food-rating-system) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
