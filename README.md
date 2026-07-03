@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
 | [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [2429-minimize-xor](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2429-minimize-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [2429-minimize-xor](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2429-minimize-xor) |
 ## Binary Search
 |  |
 | ------- |
