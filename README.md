@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0043-multiply-strings) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
