@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0355-design-twitter) |
 | [2013-detect-squares](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2013-detect-squares) |
 | [2353-design-a-food-rating-system](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2353-design-a-food-rating-system) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
