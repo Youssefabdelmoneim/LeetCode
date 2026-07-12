@@ -3,30 +3,30 @@ class Solution
 public:
   int numberOfSubarrays(vector<int> &nums, int k)
   {
+    int n = nums.size();
     queue<int> q;
-    int res = 0, countEven = 0;
-    for (auto num : nums)
+    int res = 0;
+    int subArrays = 0;
+    int l = 0;
+    for (int r = 0; r < n; r++)
     {
-      if (num % 2 == 0)
-        countEven++;
-      else
+      if (nums[r] % 2 != 0)
       {
-
-        q.push(countEven); // number of even numbers before this odd number
-        countEven = 0;
         k--;
+        subArrays = 0;
       }
 
-      if (k < 0) // another odd number that exceeds our window so remove first odd number 
+      while (k == 0)
       {
-        q.pop();
-        k = 0;
+        if (nums[l] % 2 != 0)
+          k++;
+        subArrays++;
+        l++;
       }
-      if (k == 0) // valid window so we 'll add all subarrays that we can get from this window
-      {
-        res += q.front() + 1; // number of evens before first odd number in our window + 1
-      }
+
+      res += subArrays;
     }
+
     return res;
   }
 };
