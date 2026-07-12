@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2013-detect-squares](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2013-detect-squares) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2353-design-a-food-rating-system](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2353-design-a-food-rating-system) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0621-task-scheduler) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2013-detect-squares](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2013-detect-squares) |
 | [2353-design-a-food-rating-system](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2353-design-a-food-rating-system) |
 ## Sorting
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Simulation
 |  |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Youssefabdelmoneim/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
 |  |
 | ------- |
